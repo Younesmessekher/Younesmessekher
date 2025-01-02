@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=younesmessekher" alt="younesmessekher" /></a> </p>
 
-- 🔭 I am currently studying [Second year SC engineering](USTHB)
+- 🔭 I am currently studying [Second year CS engineering](USTHB)
 
 - 📫 How to reach me **younesmessekher791@gmail.com**
 
